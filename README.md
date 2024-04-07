@@ -11,10 +11,24 @@ Besides, I replaced a lot of weapong sounds because i like them to sounds "moder
 ## Previews
 
 ### Player models
+#### Red
+![Red player image](https://raw.githubusercontent.com/LeonN534/AG-config/main/assets/red.JPG)
+#### Blue
+![Blue player image](https://raw.githubusercontent.com/LeonN534/AG-config/main/assets/blue.JPG)
 ### Weapon v_models
+![Weapon v_models image 1](https://raw.githubusercontent.com/LeonN534/AG-config/main/assets/v_models1.png)
+![Weapon v_models image 2](https://raw.githubusercontent.com/LeonN534/AG-config/main/assets/v_models2.png)
 ### Wad Textures
+![Wad sample 1](https://raw.githubusercontent.com/LeonN534/AG-config/main/assets/textures1.png)
+![Wad sample 2](https://raw.githubusercontent.com/LeonN534/AG-config/main/assets/textures2.png)
+![Wad sample 3](https://raw.githubusercontent.com/LeonN534/AG-config/main/assets/textures3.png)
 ### Sky
+![Black sky image](https://raw.githubusercontent.com/LeonN534/AG-config/main/assets/sky.jpg)
 ### HUD
+![HUD image](https://raw.githubusercontent.com/LeonN534/AG-config/main/assets/HUD.png)
 ### Crosshairs
+![Crosshairs image](https://raw.githubusercontent.com/LeonN534/AG-config/main/assets/crosshairs.png)
 ### UI
-### 
+![UI image 1](https://raw.githubusercontent.com/LeonN534/AG-config/main/assets/UI1.png)
+![UI image2](https://raw.githubusercontent.com/LeonN534/AG-config/main/assets/UI2.png)
+
